@@ -1,6 +1,6 @@
 # Pomodoro Timer App
 
-A beautiful, fully-featured Pomodoro timer application built with Expo and React Native. This app helps you stay focused and productive with customizable work and break sessions, task management, and detailed statistics.
+A beautiful, fully featured Pomodoro timer application built with Expo and React Native. This app helps you stay focused and productive with customizable work and break sessions, task management, and detailed statistics.
 
 ## Features
 
@@ -95,4 +95,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with Expo and React Native
 - Icons by Lucide
+
 - Deployed on Netlify
